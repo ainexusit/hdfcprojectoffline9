@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 first line 
 second line 
 third line
 fourth line
+=======
+first line 
+second line 
+third line
+fourth line
+>>>>>>> refs/remotes/origin/main
 fifth line
